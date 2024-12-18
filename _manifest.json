@@ -1,5 +1,5 @@
 {
-"version": "4.0",
+"version": "4.8.1",
 "comment": "---if versions are not the same it will cause an update loop",
 "lang" : "en",
 "name" : "Sticky",
